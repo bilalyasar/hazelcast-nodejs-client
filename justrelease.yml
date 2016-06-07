@@ -1,0 +1,9 @@
+version.update:
+    - "*.json"
+create.artifacts:
+        - npm install
+        - npm publish
+        - github_changelog_generator hazelcast/hazelcast-aws --unreleased-label LATEST_RELEASE
+publish:
+        - github:
+            - description:CHANGELOG.md
