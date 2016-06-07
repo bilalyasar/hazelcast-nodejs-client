@@ -1,5 +1,5 @@
 {
-    "version": "0.3.3",
+    "version": "0.3.4",
     "name": "testjr",
     "description": "Hazelcast - open source In-Memory Data Grid - client for NodeJS",
     "main": "lib/index.js",
