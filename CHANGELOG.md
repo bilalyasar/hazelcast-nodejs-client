@@ -30,7 +30,6 @@
 - Client Cluster Service [\#15](https://github.com/hazelcast/hazelcast-nodejs-client/issues/15)
 - Hazelcast Client Protocol Client Message implementation [\#11](https://github.com/hazelcast/hazelcast-nodejs-client/issues/11)
 - implement shutdown method for HazelcastClient [\#8](https://github.com/hazelcast/hazelcast-nodejs-client/issues/8)
-- test slack integration [\#6](https://github.com/hazelcast/hazelcast-nodejs-client/issues/6)
 
 **Merged pull requests:**
 
@@ -78,7 +77,7 @@
 - adds getLocalEndpoint [\#80](https://github.com/hazelcast/hazelcast-nodejs-client/pull/80) ([mustafaiman](https://github.com/mustafaiman))
 
 ## [v0.1](https://github.com/hazelcast/hazelcast-nodejs-client/tree/v0.1) (2016-03-16)
-[Full Changelog](https://github.com/hazelcast/hazelcast-nodejs-client/compare/v0.3.7...v0.1)
+[Full Changelog](https://github.com/hazelcast/hazelcast-nodejs-client/compare/v0.3.10...v0.1)
 
 **Closed issues:**
 
